@@ -1,7 +1,7 @@
 # Chemical-bond-enhanced Graph Attention and Factorization Machine Network for Drug Synergy Prediction
 
 ### 项目概述
-本项目开发了一种基于化学键图注意力网络和因子分解机的药物组合协同效应预测，并实现了模型的训练和测试。可以同一数据集下对比该模型与基准模型DeepDDS的性能。
+本研究针对药物组合协同效应预测精度不足的难题，创新性地构建了基于化学键图注意力网络（Bond-aware Graph Attention Network）与因子分解机（Factorization Machine）的深度学习模型CBGAT-FM。在基准数据集上的对比实验表明，本模型在协同效应预测准确率较DeepDDS模型提升2.86%
 
 |模型|Acc|
 |---|---|
