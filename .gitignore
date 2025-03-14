@@ -1,0 +1,11 @@
+/.idea/
+/checkpoints/
+/encodings/
+/models/__pycache__
+/__pycache__/
+/wandb/
+
+/data/data.csv
+/data/cv.csv
+/data/train.csv
+/data/test.csv
